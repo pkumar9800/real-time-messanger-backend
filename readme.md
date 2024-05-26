@@ -1,0 +1,1 @@
+This is the backend of a full stack real time chat application.
